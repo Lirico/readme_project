@@ -37,6 +37,6 @@ Me gusta el pancito
 
 ### Video de Patrones de diseño en JS
 
-<a href="https://www.youtube.com/watch?v=kuirGzhGhyw">
+<a href="https://www.youtube.com/watch?v=kuirGzhGhyw" target="_blank">
     <img src="https://i.postimg.cc/g0CHRkYg/dp-factory.png" alt="factory pattern">
 </a>
