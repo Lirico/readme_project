@@ -5,6 +5,7 @@
 # Titulo
 
 > Podemos juzgar el progreso por la valentía de las preguntas y la profundidad de las respuestas; por la osadía de encontrar la verdad más que en regocijarnos en lo que nos hace sentir bien.
+- Carl Sagan
 
 <img src="https://pa1.aminoapps.com/6733/f1ace5f240005799e496656b725dc21c489871e8_hq.gif" alt="gif pancito">
 
