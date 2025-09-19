@@ -16,7 +16,7 @@ Me gusta el pancito
 
 ### Sub subtitulo
 
-```
+```javascript
     function sumar(a,b)
     {
         return a + b;
