@@ -14,7 +14,7 @@ Me gusta el pancito
 - Bulbasaur
     - Planta/Veneno
 
-### Sub subtitulo
+### Codigo JS
 
 ```javascript
     function sumar(a,b)
@@ -22,3 +22,10 @@ Me gusta el pancito
         return a + b;
     };
 ```
+
+### Codigo Python
+```javascript
+    def sumar(a,b):
+        return a + b
+```
+
