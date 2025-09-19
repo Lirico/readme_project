@@ -1,4 +1,4 @@
-<img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="readme banner" width="10000">
+<img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="readme banner" width="600">
 
 # Titulo
 
