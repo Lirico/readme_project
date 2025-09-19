@@ -6,6 +6,8 @@
 
 Me gusta el pancito
 
+<img src="https://pa1.aminoapps.com/6733/f1ace5f240005799e496656b725dc21c489871e8_hq.gif" alt="gif pancito">
+
 ## Pokemons
 
 - Pikachu
